@@ -1,4 +1,5 @@
-# Leetcode Daily Challenges
+# Leetcode Daily Challenges 
+<center><img src="dataset-cover.jpg" width="320px" align="center"></center>
 
 Welcome to my **Leetcode Daily Challenge Repository**! 🚀
 
