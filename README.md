@@ -22,7 +22,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 ## Challenges Log
 | Date       | Problem Title                     | Difficulty | Solution Link   |
 |------------|-----------------------------------|------------|-----------------|
-| 10-01-2025 | [Word Subsets](#)                 | Medium     | [Kotlin,Java,Python](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/916.%20Word%20Subsets.md)|
+| 10-01-2025 | [916 Word Subsets](#)                 | Medium     | [Kotlin,Java,Python](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/916.%20Word%20Subsets.md)|
 | 11-01-2025 | [1400. Construct K Palindrome Strings](#)              | Medium      | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1400.%20Construct%20K%20Palindrome%20Strings.md)|
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
