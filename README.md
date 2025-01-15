@@ -27,7 +27,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 | 12-01-2025 | [2116. Check if a Parentheses String Can Be Valid](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.md)  | Medium       | [Kotlin,PHP,Java,Python 3, Go ](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.md) |
 | 13-01-2025 | [3223. Minimum Length of String After Operations]() | Medium | []() |
 | 14-01-2025 | [2657. Find the Prefix Common Array of Two Arrays]() | Medium | [Kotlin,Java,PHP]() |
-| 15-01-2025 | [2429. Minimize XOR]() | Medium | [Java]() |
+| 15-01-2025 | [2429. Minimize XOR](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2429.%20Minimize%20XOR.md) | Medium | [Java](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2429.%20Minimize%20XOR.md) |
 
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
