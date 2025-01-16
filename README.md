@@ -28,7 +28,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 | 13-01-2025 | [3223. Minimum Length of String After Operations](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/3223.%20Minimum%20Length%20of%20String%20After%20Operations.md) | Medium | [Java,PHP,Kotlin,Python 3](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/3223.%20Minimum%20Length%20of%20String%20After%20Operations.md) |
 | 14-01-2025 | [2657. Find the Prefix Common Array of Two Arrays](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.md) | Medium | [Kotlin,Java,PHP](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.md) |
 | 15-01-2025 | [2429. Minimize XOR](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2429.%20Minimize%20XOR.md) | Medium | [Java](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2429.%20Minimize%20XOR.md) |
-
+| 16-01-2025 | [2425. Bitwise XOR of All Pairings]() | Medium | [Python,Kotlin,Java]() |
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
 
