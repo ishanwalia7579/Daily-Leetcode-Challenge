@@ -29,6 +29,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 | 14-01-2025 | [2657. Find the Prefix Common Array of Two Arrays](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.md) | Medium | [Kotlin,Java,PHP](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.md) |
 | 15-01-2025 | [2429. Minimize XOR](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2429.%20Minimize%20XOR.md) | Medium | [Java](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2429.%20Minimize%20XOR.md) |
 | 16-01-2025 | [2425. Bitwise XOR of All Pairings](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2425.%20Bitwise%20XOR%20of%20All%20Pairings.md) | Medium | [Python,Kotlin,Java](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2425.%20Bitwise%20XOR%20of%20All%20Pairings.md) |
+| 17-01-2025 | [2683. Neighboring Bitwise XOR]() | Medium | [Python,Kotlin,Java]() |
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
 
