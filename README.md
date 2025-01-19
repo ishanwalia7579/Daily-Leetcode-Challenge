@@ -30,7 +30,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 | 15-01-2025 | [2429. Minimize XOR](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2429.%20Minimize%20XOR.md) | Medium | [Java](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2429.%20Minimize%20XOR.md) |
 | 16-01-2025 | [2425. Bitwise XOR of All Pairings](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2425.%20Bitwise%20XOR%20of%20All%20Pairings.md) | Medium | [Python,Kotlin,Java](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2425.%20Bitwise%20XOR%20of%20All%20Pairings.md) |
 | 17-01-2025 | [2683. Neighboring Bitwise XOR](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2683.%20Neighboring%20Bitwise%20XOR.md) | Medium | [Python,Kotlin,Java,C](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2683.%20Neighboring%20Bitwise%20XOR.md) |
-| 18-01-2025 | [1368 Minimum Cost to Make at Least One Valid Path in a Grid]() | Medium | [Python,Java]() |
+| 18-01-2025 | [1368 Minimum Cost to Make at Least One Valid Path in a Grid](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.md) | Medium | [Python,Java](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.md) |
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
 
