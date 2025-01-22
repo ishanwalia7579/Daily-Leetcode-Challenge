@@ -34,7 +34,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 |10.| 19-01-2025 | [407. Trapping Rain Water II](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/407.%20Trapping%20Rain%20Water%20II.md) | Hard | [Python,Java,kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/407.%20Trapping%20Rain%20Water%20II.md) |
 |11.| 20-01-2025 | [2661. First Completely Painted Row or Column](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2661.%20First%20Completely%20Painted%20Row%20or%20Column.md) | Medium | [Java,kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2661.%20First%20Completely%20Painted%20Row%20or%20Column.md) |
 |11.| 21-01-2025 | [2017. Grid Game](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2017.%20Grid%20Game.md) | Medium | [Java,kotlin,python](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2017.%20Grid%20Game.md) |
-
+|12.| 22-01-2025 | [1765. Map of Highest Peak]() | Medium | [Java,kotlin,python]() |
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
 
 ## Goals
