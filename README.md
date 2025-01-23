@@ -35,7 +35,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 |11.| 20-01-2025 | [2661. First Completely Painted Row or Column](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2661.%20First%20Completely%20Painted%20Row%20or%20Column.md) | Medium | [Java,kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2661.%20First%20Completely%20Painted%20Row%20or%20Column.md) |
 |11.| 21-01-2025 | [2017. Grid Game](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2017.%20Grid%20Game.md) | Medium | [Java,kotlin,python](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2017.%20Grid%20Game.md) |
 |12.| 22-01-2025 | [1765. Map of Highest Peak](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1765.%20Map%20of%20Highest%20Peak.md) | Medium | [Java,kotlin,python](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1765.%20Map%20of%20Highest%20Peak.md) |
-|13.| 23-01-2025 | [1267. Count Servers that Communicate]() | Medium | [Java,kotlin]() |
+|13.| 23-01-2025 | [1267. Count Servers that Communicate](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1267.%20Count%20Servers%20that%20Communicate.md) | Medium | [Java,kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1267.%20Count%20Servers%20that%20Communicate.md) |
 
 
 
