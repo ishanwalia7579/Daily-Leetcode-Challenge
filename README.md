@@ -20,8 +20,8 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 - A progress tracker for myself to measure growth over time.
 
 ## Challenges Log
-|Sr.No| Date  | Problem Title                         | Difficulty | Solution Link   |
-|-----|-------|---------------------------------------|------------|-----------------|
+|Sr.No| Date      | Problem Title                         | Difficulty | Solution Link   |
+|-----|-----------|---------------------------------------|------------|-----------------|
 |1.| 10-01-2025 | [916 Word Subsets](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/916.%20Word%20Subsets.md)                 | Medium     | [Kotlin,Java,Python](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/916.%20Word%20Subsets.md)|
 |2.| 11-01-2025 | [1400. Construct K Palindrome Strings](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1400.%20Construct%20K%20Palindrome%20Strings.md)              | Medium      | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1400.%20Construct%20K%20Palindrome%20Strings.md)|
 |3.| 12-01-2025 | [2116. Check if a Parentheses String Can Be Valid](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.md)  | Medium       | [Kotlin,PHP,Java,Python 3, Go ](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.md) |
