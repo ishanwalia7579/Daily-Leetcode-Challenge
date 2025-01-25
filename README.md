@@ -37,7 +37,6 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 |12.| 22-01-2025 | [1765. Map of Highest Peak](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1765.%20Map%20of%20Highest%20Peak.md) | Medium | [Java,kotlin,python](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1765.%20Map%20of%20Highest%20Peak.md) |
 |13.| 23-01-2025 | [1267. Count Servers that Communicate](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1267.%20Count%20Servers%20that%20Communicate.md) | Medium | [Java,kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1267.%20Count%20Servers%20that%20Communicate.md) |
 |14.| 24-01-2025 | [802. Find Eventual Safe States](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/802.%20Find%20Eventual%20Safe%20States.md) | Medium | [kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/802.%20Find%20Eventual%20Safe%20States.md) |
-
 |15.| 25-01-2025 | [2948. Make Lexicographically Smallest Array by Swapping Elements]() | Medium | [kotlin]() |
 
 
