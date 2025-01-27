@@ -39,8 +39,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 |14.| 24-01-2025 | [802. Find Eventual Safe States](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/802.%20Find%20Eventual%20Safe%20States.md) | Medium | [kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/802.%20Find%20Eventual%20Safe%20States.md) |
 |15.| 25-01-2025 | [2948. Make Lexicographically Smallest Array by Swapping Elements](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.md) | Medium | [kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.md) |
 |16.| 26-01-2025 | [2127. Maximum Employees to Be Invited to a Meeting](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.md) | Medium | [kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.md) |
-
-
+|17.| 27-01-2025 | [1462. Course Schedule IV]() | Medium | [C++]() |
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
 
