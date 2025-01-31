@@ -40,7 +40,10 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 |15.| 25-01-2025 | [2948. Make Lexicographically Smallest Array by Swapping Elements](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.md) | Medium | [kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.md) |
 |16.| 26-01-2025 | [2127. Maximum Employees to Be Invited to a Meeting](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.md) | Medium | [kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.md) |
 |17.| 27-01-2025 | [1462. Course Schedule IV](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1462.%20Course%20Schedule%20IV.md) | Medium | [C++](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1462.%20Course%20Schedule%20IV.md) |
-|18.| 28-01-2025 | [2658. Maximum Number of Fish in a Grid](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid.md) | Medium | [2658. Maximum Number of Fish in a Grid](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid.md) |
+|18.| 28-01-2025 | [2658. Maximum Number of Fish in a Grid](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid.md) | Medium | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid.md) |
+|19.| 29-01-2025 | []() | Medium | [Kotlin]() |
+|20.| 30-01-2025 | []() | Medium | [Kotlin]() |
+|21.| 31-01-2025 | [827. Making A Large Island]() | Hard | [Kotlin]() |
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
 
