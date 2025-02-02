@@ -41,9 +41,12 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 |16.| 26-01-2025 | [2127. Maximum Employees to Be Invited to a Meeting](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.md) | Medium | [kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.md) |
 |17.| 27-01-2025 | [1462. Course Schedule IV](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1462.%20Course%20Schedule%20IV.md) | Medium | [C++](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1462.%20Course%20Schedule%20IV.md) |
 |18.| 28-01-2025 | [2658. Maximum Number of Fish in a Grid](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid.md) | Medium | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid.md) |
-|19.| 29-01-2025 | []() | Medium | [Kotlin]() |
-|20.| 30-01-2025 | []() | Medium | [Kotlin]() |
+|19.| 29-01-2025 | [Redundant Connection]() | Medium | [Kotlin]() |
+|20.| 30-01-2025 | [Divide Nodes Into the Maximum Number of Groups]() | Medium | [Kotlin]() |
 |21.| 31-01-2025 | [827. Making A Large Island]() | Hard | [Kotlin]() |
+|22.| 1-02-2025 | [Special Array I]() |  | []() |
+|23.| 3-02-2025 | [1752. Check if Array Is Sorted and Rotated](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md) | Easy | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md) |
+
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
 
