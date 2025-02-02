@@ -45,7 +45,7 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 |20.| 30-01-2025 | [Divide Nodes Into the Maximum Number of Groups]() | Medium | [Kotlin]() |
 |21.| 31-01-2025 | [827. Making A Large Island]() | Hard | [Kotlin]() |
 |22.| 1-02-2025 | [Special Array I]() |  | []() |
-|23.| 3-02-2025 | [1752. Check if Array Is Sorted and Rotated](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md) | Easy | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md) |
+|23.| 2-02-2025 | [1752. Check if Array Is Sorted and Rotated](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md) | Easy | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md) |
 
 
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
