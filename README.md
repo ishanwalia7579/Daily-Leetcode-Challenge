@@ -47,7 +47,8 @@ Feel free to explore the solutions and approaches in this repository. It can ser
 |22.| 1-02-2025 | [Special Array I]() | Medium | [Java]() |
 |23.| 2-02-2025 | [1752. Check if Array Is Sorted and Rotated](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md) | Easy | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md) |
 |24.| 3-02-2025 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.md) | Easy | [Kotlin](https://github.com/ishanwalia7579/Daily-Leetcode-Challenge/blob/main/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.md) |
-
+|25.| 4-02-2025 | [Maximum Ascending Subarray Sum]() | Easy | [c]() |
+|26.| 5-02-2025 | [1790. Check if One String Swap Can Make Strings Equal]() | Easy | [c]() |
 > **Note:** The `Challenges Log` will be updated daily as I complete new problems.
 
 ## Goals
